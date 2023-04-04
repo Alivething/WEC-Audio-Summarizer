@@ -16,7 +16,11 @@ Ankit and Satyam
 
 To-do list:
 1.1) Audio to text model architecture - Incomplete
+
 1.2) Audio to text model training data - Incomplete
+
 1.3) Preprocessing steps to use direct audio files to test model - Incomplete
+
 2.1) Summarization system architecture/flow - Incomplete
+
 2.2) Addition utility through summarized text  - Incomplete
