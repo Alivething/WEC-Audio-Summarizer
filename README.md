@@ -28,4 +28,6 @@ Ankit and Satyam
 
 2.1) Summarization system architecture/flow - Incomplete
 
-2.2) Addition utility through summarized text  - Incomplete
+2.2) Training summarization system/model - Incomplete
+
+2.3) Addition utility through summarized text  - Incomplete
